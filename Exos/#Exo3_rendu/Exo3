@@ -1,0 +1,5 @@
+Get the number n to return the reversed sequence from n to 1.
+
+Example : 
+Support.ReversedSequence(5)
+=> [5, 4, 3, 2, 1]

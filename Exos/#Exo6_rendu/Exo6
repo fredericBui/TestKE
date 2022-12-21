@@ -1,0 +1,15 @@
+Write a function that generates factors for a given number.
+
+The function takes an integer on the standard input and returns a list of integers. That list contains the prime factors in numerical sequence.
+
+Examples:
+factors(1)
+=> []
+factors(3)
+=> [3]
+factors(8)
+=> [2, 2, 2]
+factors(9)
+=> [3, 3]
+factors(12)
+=> [2, 2, 3]

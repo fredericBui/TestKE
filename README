@@ -1,0 +1,29 @@
+L'entretien consiste à effectuer les exercices qui sont présents dans le dossier ".\Exos".
+
+-- La résolution des exercices
+Tout les exercices sont en anglais.
+Les exercices comportent un énoncé et des exemples de cas d'utilisation de la ou des fonctions/classes/méthodes attendues.
+Certains exercices ne comportent pas d'exemple à proprement parlé, dans ce cas il posséde un énoncé plus verbeux appelé 'Format'.
+Merci de bien prendre en compte les exemples et l'énoncé 'Format' de manière à les faire correspondre avec vos résultat et ce aussi bien sur le fond que sur la forme.
+
+-- Le déroulement de l'entretien
+Il n'est pas attendu que vous fassiez tout les exercices dans le temps imparti.
+Certains exercices sont beaucoup difficiles plus à réaliser que d'autres.
+Vous êtes libre de choisir les exercices à réaliser.
+Notez cependant que la difficulté est croissante dans l'ordre des exercices.
+
+--- Format du rendu
+Un dossier de rendu sera demandé par exercice. Celui-ci devra être formater comme ceci: "#{nom_de_l_exercice}_rendu".
+Le nombre de fichiers et leurs noms à l'intérieur de ces dossiers sont libre (sauf test).
+Le tout sera zippé dans un fichier appelé "rendu.zip" puis envoyé par email à l'adresse robin.tillaux@bureauveritas.com.
+
+-- Test
+Vous êtes libre de laisser vos fichiers de test dans le rendu. Cependant pour plus de clarté merci de l'appeler "test".
+Il n'est pas obligatoire que les tests soient bien formatés, il peut juste s'agir d'appel au fonctions/classes/méthodes des exercices.
+
+--- Rendu
+Il devra être effectuer au plus tard 3h après le commencement de l'entretien.
+
+-- Résultats
+Les résultats seront apportés lors d'un second entretien dont la date et l'heure seront fixées après cette entretien.
+Les solutions ne seront pas données.

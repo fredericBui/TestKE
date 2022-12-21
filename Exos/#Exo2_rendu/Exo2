@@ -1,0 +1,10 @@
+Simple, remove the spaces from the string param, then return the resultant string.
+
+Examples:
+
+Support.RemoveSpace('    	')
+=> ''
+Support.RemoveSpace('alpha tango charlie')
+=> 'alphatangocharlie'
+Support.RemoveSpace('  set  	  ready?     go!   ')
+=> 'setreadygo!'
